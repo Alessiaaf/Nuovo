@@ -4,7 +4,7 @@
 	org $2000       ;Place the origin at $2000
 
 
-start:
+begin:
 	move.l	#$12345678,d6
 	move.l	#$12345678,d7
 
